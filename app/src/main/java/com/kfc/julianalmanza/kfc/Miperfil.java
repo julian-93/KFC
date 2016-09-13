@@ -35,8 +35,7 @@ public class Miperfil extends AppCompatActivity {
         switch (id){
 
             case(R.id.mPrincipal):
-                Intent intent=new Intent(this,MainActivity.class);
-                startActivity(intent);
+                finish();
                 break;
         }
         return super.onOptionsItemSelected(item);
