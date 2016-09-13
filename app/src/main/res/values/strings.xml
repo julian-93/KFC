@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">KFC</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="user">Usuario:</string>
+    <string name="contraseña">Contraseña:</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="concontraseña">Confirmar Contraseña:</string>
+    <string name="correo">Correo Electronico:</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="vacio">Campo Vacio</string>
+    <string name="diferentecontra">Contraseñas Distintas</string>
+    <string name="bucket7">Bucket 7 Presas</string>
+    <string name="descripcion_bucket7">7 Deliciosas Presas De Pollo KFC</string>
+    <string name="megavariedad">Mega Variedad</string>
+    <string name="descripcion_megavariedad">6 Presas,6 Hot Wings,4 Strips,4 Arepas,1 Pop Corn de 6 Oz,1 Papas Grandes</string>
+    <string name="megaeconomico">Mega Economico</string>
+    <string name="descripcion_megaeconomico">8 Presas,8 Arepas</string>
+    <string name="megasinigual">Mega Sin Igual</string>
+    <string name="descripcion_megasinigual">8 Presas, 2 Papas Medianas</string>
+    <string name="megafutbolero">Mega Futbolero</string>
+    <string name="descripcion_megafutbolero">11 Presas, 11 Alitas</string>
+    <string name="mega1">Mega1</string>
+    <string name="descripcion_mega1">9 Presas, 1 Papas Grandes, 1 Ensalada Grande</string>
+    <string name="mega2">Mega2</string>
+    <string name="descripcion_mega2">12 Presas, 1 Papas Grandes, 1 Ensalada Grande</string>
+    <string name="megahot">Mega Hot Wings</string>
+    <string name="descripcion_megahot">25 Alitas Picantes, 6 Arepas y Salsas</string>
+    <string name="megapop">Mega Pop Corn</string>
+    <string name="descripcion_megapop">6 Presas, Pop Corn Familiar, 1 Papas Grandes, 8 Arepas</string>
+    <string name="disfruta">¡Disfruta De Nuestras Comidas!</string>
+</resources>
